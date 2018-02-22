@@ -1,21 +1,3 @@
-/*-----------------------------------------------------------------------------------
-
-    Template Name:
-    Template URI: 
-    Description: This is html5 template
-    Author: Ninzio Themes
-    Author URI:
-    Version: 1.0
-
------------------------------------------------------------------------------------
-    
-    CSS INDEX
-    ===================
-	
-    1. Theme Default CSS (body, link color, section etc)
-
------------------------------------------------------------------------------------*/
-/*----------------------------------------*/
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700|PT+Serif:400,400i,700|Raleway:400,500,600,700|Yesteryear');
 ::-moz-selection {
     background: #b3d4fc;
@@ -152,6 +134,7 @@ a#scrollUp:hover{
   width: 85%;
 }
 .cart-wrapper {
+	display: none;
 	background: #fff none repeat scroll 0 0;
 	height: 75px;
 	line-height: 70px;
